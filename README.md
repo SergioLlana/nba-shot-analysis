@@ -1,2 +1,3 @@
-# nba-shot-analysis
-NBA shot logs analysis
+# NBA Shot Logs Analysis
+
+(To be done)
