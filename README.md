@@ -4,7 +4,7 @@
 
 The main purpose of this project was to perform a multivariate analysis on a public dataset obtained from [Kaggle](https://www.kaggle.com/dansbecker/nba-shot-logs). It contains information about over 125 thousand NBA shots, which occurred during 2014-2015 season. Furthermore, two tree-based classification models have been fit in order to be able to predict potential new observations.
 
-This project was initially developed as a project of Multivariate Analysis at the Master of Innovation and Research in Informatics (Polytechnical University of Catalonia).
+This project was initially developed as a project of Multivariate Analysis at the Master of Innovation and Research in Informatics (Polytechnic University of Catalonia).
 
 
 
